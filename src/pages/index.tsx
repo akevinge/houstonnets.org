@@ -15,7 +15,7 @@ export default function Home() {
           <div className="absolute top-3 2xs:top-5 md:top-16 lg:top-28 left-5 xs:left-10 text-primary text-xl 2xs:text-2xl sm:text-4xl md:text-6xl">
             <h1 className="font-medium whitespace-nowrap">Houston Area</h1>
             <h1 className="mt-1 sm:mt-5 font-medium whitespace-nowrap">
-              NET Group
+              Support NET Group
             </h1>
           </div>
           <img

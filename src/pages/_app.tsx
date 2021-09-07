@@ -6,7 +6,7 @@ function MyApp({ Component, pageProps }: AppProps) {
   return (
     <>
       <Head>
-        <title>Houston Area NET Group</title>
+        <title>Houston Area NET Support Group</title>
         <meta
           name="description"
           content="We bring together those in the broader Houston area that are living with, affected by, and are interested in Neuroendocrine/Carcinoid Cancer"

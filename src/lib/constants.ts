@@ -16,7 +16,7 @@ export const resources: { link: string; name: string }[] = [
     name: "The Healing NET Foundation",
   },
   {
-    link: "https://www.norcalcinet.org",
+    link: "https://norcalcarcinet.org",
     name: "Northern California Carcinoid Neuroendocrine Support Group",
   },
   {

@@ -1,15 +1,23 @@
 export const resources: { link: string; name: string }[] = [
   {
-    link: "https://www.lacnets.org/",
-    name: "Los Angeles Carcinoid Neuroendocrine Tumor Society",
+    link: "www.carcinoid.org",
+    name: "The Carcinoid Cancer Foundation",
   },
   {
-    link: "https://www.lacnets.org/",
-    name: "Los Angeles Carcinoid Neuroendocrine Tumor Society",
+    link: "www.netcancerawareness.org",
+    name: "Neuroendocrine Cancer Awareness Network",
   },
   {
-    link: "https://www.lacnets.org/",
-    name: "Los Angeles Carcinoid Neuroendocrine Tumor Society",
+    link: "www.netrf.org",
+    name: "Neuroendocrine Research Foundation",
+  },
+  {
+    link: "www.thehealingnet.org",
+    name: "The Healing NET Foundation",
+  },
+  {
+    link: "www.norcalcinet.org",
+    name: "Northern California Carcinoid Neuroendocrine Support Group",
   },
   {
     link: "https://www.lacnets.org/",

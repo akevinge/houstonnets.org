@@ -15,7 +15,8 @@ const ResourcesPage: NextPage = () => {
         <ul className="list-none flex flex-col gap-20 xs:gap-6">
           {resources.map(({ link, name }) => (
             <li
-              className="flex flex-col xs:flex-row gap-2 sm:gap-6 items-center justify-center"
+              className="flex flex-col xs:grid items-center gap-3"
+              style={{ gridTemplateColumns: "4fr 1fr 2fr" }}
               key={name + link}
             >
               <h1 className="text-center xs:text-left">{name}</h1>

@@ -27,7 +27,7 @@ const ResourcesPage: NextPage = () => {
                 rel="noreferrer"
                 className="text-blue-600"
               >
-                {link}
+                {link.replace("https://", "")}
               </a>
             </li>
           ))}

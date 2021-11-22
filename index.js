@@ -2331,10 +2331,10 @@
       }
       function n(form, t) {
         // note: add request here
-        var e = t
-          ? form.find(".u-form-send-error").clone()
-          : form.find(".u-form-send-error");
-        if (t) e.text(t), form.find(".u-form-send-error").parent().append(e);
+        // var e = t
+        //   ? form.find(".u-form-send-error").clone()
+        //   : form.find(".u-form-send-error");
+        // if (t) e.text(t), form.find(".u-form-send-error").parent().append(e);
         e.show(),
           setTimeout(function () {
             if ((e.hide(), t)) e.remove();
